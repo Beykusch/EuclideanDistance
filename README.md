@@ -1,7 +1,8 @@
 📚 Python Uygulama 2
+
 Minimum Öklid Mesafesinin Hesaplanması
 
-
+![Euclidean_Distance](https://github.com/user-attachments/assets/edcb6d94-9ec5-464a-8e9c-c83cec08d2f3)
 
 Resimdeki formül:
 d = √(x₂-x₁)²+(y₂-y₁)²
